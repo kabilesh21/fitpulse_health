@@ -7,7 +7,7 @@ st.set_page_config(page_title="FitPulse Cleaner", layout="wide")
 
 st.title("📊 FitPulse Data Cleaning + Plotly Visualization")
 
-file_path = r"D:\app\Excel\fitpulse.xlsx"
+file_path = r"D:\fitpulse_health\Excel\fitpulse.xlsx"
 
 # Load Excel File
 try:
