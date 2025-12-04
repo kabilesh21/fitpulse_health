@@ -6,7 +6,7 @@ import streamlit as st
 
 # Load Data
 
-file_path = r"D:\app\Excel\fitpulse.xlsx"
+file_path = r"D:\fitpulse_health\Excel\fitpulse.xlsx"
 data = pd.read_excel(file_path)
 st.write("### Raw Data", data.head())
 
@@ -35,4 +35,5 @@ ax.grid(True)
 
 # Display plot in Streamlit
 st.pyplot(fig)
+
 
