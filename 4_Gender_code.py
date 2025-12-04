@@ -5,7 +5,7 @@ import numpy as np
 st.title("FitPulse – Gender Code Generator")
 
 # File path (you can also use uploader if needed)
-file_path = r"D:\app\Excel\fitpulse.xlsx"
+file_path = r"D:\fitpulse_health\Excel\fitpulse.xlsx"
 
 # Load data
 data = pd.read_excel(file_path)
