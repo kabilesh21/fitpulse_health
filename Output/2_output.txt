@@ -1,0 +1,12 @@
+Customer_ID              0
+Age_Group                0
+gender                   2
+heart_beat_per_minute    0
+pulse_rate               0
+steps                    4
+dtype: int64 
+
+Heart Humpy Shape : (15,)
+Pulse Numpy shape : (15,)
+Steps Humpy Shape : (15,)
+Gender Numpy shape : (15,)

@@ -1,0 +1,16 @@
+    heart_beat_per_minute Heart_Status
+0                      72       Normal
+1                     103         High
+2                      70       Normal
+3                      74       Normal
+4                      54          Low
+5                      70       Normal
+6                      74       Normal
+7                      76       Normal
+8                      78       Normal
+9                      78       Normal
+10                     70       Normal
+11                     71       Normal
+12                     70       Normal
+13                     73       Normal
+14                     70       Normal

@@ -1,0 +1,12 @@
+Customer_ID Age_Group  gender  heart_beat_per_minute  pulse_rate   steps
+0            1     25-35    Male                     72          89  2500.0
+1            2     35-45  Female                     71          86  5211.0
+2            3     26-29    Male                     70          87     NaN
+3            4     34-39    Male                     74          86  8544.0
+4            5     45-49    Male                     76          87     NaN
+   Customer_ID Age_Group  gender  heart_beat_per_minute  pulse_rate   steps
+0            1     25-35    Male                     72          89  2500.0
+1            2     35-45  Female                     71          86  5211.0
+2            3     26-29    Male                     70          87     NaN
+3            4     34-39    Male                     74          86  8544.0
+4            5     45-49    Male                     76          87     NaN
