@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 st.title("💓 Average Heart Beat by Gender (Matplotlib)")
 
-file_path = r"D:\app\Excel\fitpulse.xlsx"
+file_path = r"D:\fitpulse_health\Excel\fitpulse.xlsx"
 data = pd.read_excel(file_path)
 
 # Calculate average heart beat by gender
