@@ -5,7 +5,7 @@ import numpy as np
 st.title("💓 FitPulse – Heart Status Checker")
 
 # Load Excel file
-file_path = r"D:\app\Excel\fitpulse.xlsx"
+file_path = r"D:\fitpulse_health\Excel\fitpulse.xlsx"
 data = pd.read_excel(file_path)
 
 st.subheader("📄 Raw Data Preview")
